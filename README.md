@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vlsiuser
 - 👀 I’m interested in ...vlsidesign verification
-- 🌱 I’m currently learning ...verilog 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m Design verification Engineer
+- 💞️ I’m looking to collaborate on verification concepts and
+- 📫  Can reach out any time
 
 <!---
 vlsiuser/vlsiuser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
