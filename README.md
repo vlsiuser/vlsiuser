@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vlsiuser
 - 👀 I’m interested in ...vlsidesign verification
 - 🌱 I’m Design verification Engineer
-- 💞️ I’m looking to collaborate on verification concepts and
+- 💞️ I’m looking to collaborate on verification concepts and exchange knowledge
 - 📫  Can reach out any time
 
 <!---
